@@ -1,7 +1,3 @@
-Sure, here is the updated README content with a line describing how the website will look after running:
-
----
-
 # Memoir
 
 Memoir is a minimalist social media platform designed to provide essential functionalities such as creating, updating, deleting, and liking posts. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), Memoir ensures efficient data management and seamless user interaction.
@@ -11,7 +7,6 @@ Memoir is a minimalist social media platform designed to provide essential funct
 - **Update Posts:** Edit your existing posts to keep them up-to-date.
 - **Delete Posts:** Remove posts that are no longer relevant.
 - **Like Posts:** Show your appreciation for posts by liking them.
-- **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
 
 ## Technologies Used
 - **MongoDB:** Database management and storage.
