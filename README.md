@@ -20,7 +20,7 @@ To get started with Memoir, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/memoir.git
+    git clone https://github.com/sjain1720/Memoir.git
     cd memoir
     ```
 
